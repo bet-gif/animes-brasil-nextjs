@@ -59,7 +59,7 @@ const HeaderContent = styled.div`
 const Logo = styled(Link)`
   font-size: 1.5rem;
   font-weight: 700;
-  color: #10b981;
+  color: #120fe7ff;
   text-decoration: none;
 
   &:hover {
@@ -81,7 +81,7 @@ const NavLink = styled(Link)`
   transition: color 0.2s ease;
 
   &:hover {
-    color: #10b981;
+    color: #3d10b9ff;
   }
 `;
 
@@ -93,6 +93,6 @@ const LoginButton = styled.button`
   transition: color 0.2s ease;
 
   &:hover {
-    color: #10b981;
+    color: #eb13b5ff;
   }
 `;
