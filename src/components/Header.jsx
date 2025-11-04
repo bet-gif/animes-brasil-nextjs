@@ -81,7 +81,7 @@ const NavLink = styled(Link)`
   transition: color 0.2s ease;
 
   &:hover {
-    color: #3d10b9ff;
+    color: #5b2ddaff;
   }
 `;
 
