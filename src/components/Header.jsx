@@ -13,7 +13,7 @@ export default function Header() {
     <>
       <HeaderContainer>
         <HeaderContent>
-          <Logo href="/">ADS Animes</Logo>
+          <Logo href="/">Melhores Animes do ano 2025</Logo>
 
           <Nav>
             <NavLink href="/">Home</NavLink>
